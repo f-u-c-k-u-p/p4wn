@@ -26,7 +26,7 @@ var P4WN_LEVELS = ['stupid', 'middling', 'default', 'slow', 'slowest'];
 var P4WN_DEFAULT_LEVEL = 2;
 var P4WN_ADAPTIVE_LEVELS = false;
 
-var P4WN_IMAGE_DIR = 'images';
+var P4WN_IMAGE_DIR = '/demos/p4wn/src/images';
 
 var P4WN_IMAGE_NAMES = [
     'empty.gif',
